@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root version="2">
+    <UserData>
+        <TotalCoin>!</TotalCoin>
+        <Cannon1 lv="1">1</Cannon1>
+        <Cannon2 lv="1">0</Cannon2>
+		<Cannon3 lv="1">0</Cannon3>
+        <Cannon4 lv="1">0</Cannon4>
+        <Cannon5 lv="1">0</Cannon5>
+        <CannonID>0</CannonID>
+        <SignInNum>0</SignInNum>
+        <SignInLastTime>0</SignInLastTime>
+		<AwardIndex>0</AwardIndex>
+        <AwardLastTime>0</AwardLastTime>
+		<ExperienceValue>0</ExperienceValue>
+		<TelephoneFare>0</TelephoneFare>
+		<PlayerID>0</PlayerID>
+		<BuyGift1>1</BuyGift1>
+		<FirstShopping>0</FirstShopping>
+		<OverPeak>0</OverPeak>
+		<SubsidiesTime>0</SubsidiesTime>
+		<SubsidiesIndex>0</SubsidiesIndex>
+		<Diamonds>!!@</Diamonds>
+		<RechargeAmount>0</RechargeAmount>
+		<SkillNum1>5</SkillNum1>
+		<SkillNum2>10</SkillNum2>
+		<SkillNum3>5</SkillNum3>
+		<SkillNum4>5</SkillNum4>
+		<SkillNum5>5</SkillNum5>
+		<IsBuyMonthCard>0</IsBuyMonthCard>
+		<GetMonthCardLastTime>0</GetMonthCardLastTime>
+		<NumOfReceiveMonthCard>0</NumOfReceiveMonthCard>
+		<FirstEnterGame>0</FirstEnterGame>
+    </UserData>
+    <RoomOne>
+        <Mission LevelNum="1" FishID="1" FishNum="10" FinishNum="0" FishID1="2" FishNum1="10" FinishNum1="0" MissionSitate="0" Unlock="1"/>
+        <Mission LevelNum="2" FishID="3" FishNum="10" FinishNum="0" FishID1="4" FishNum1="10" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="3" FishID="5" FishNum="20" FinishNum="0" FishID1="6" FishNum1="20" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="4" FishID="7" FishNum="20" FinishNum="0" FishID1="8" FishNum1="20" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="5" FishID="9" FishNum="30" FinishNum="0" FishID1="10" FishNum1="30" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="6" FishID="11" FishNum="30" FinishNum="0" FishID1="12" FishNum1="30" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="7" FishID="13" FishNum="40" FinishNum="0" FishID1="14" FishNum1="40" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="8" FishID="15" FishNum="40" FinishNum="0" FishID1="16" FishNum1="40" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="9" FishID="17" FishNum="50" FinishNum="0" FishID1="18" FishNum1="50" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+        <Mission LevelNum="10" FishID="19" FishNum="50" FinishNum="0" FishID1="20" FishNum1="50" FinishNum1="0" MissionSitate="0" Unlock="0"/>
+    </RoomOne>
+    <UserSetting>
+        <Config tip="Sound">1</Config>
+        <Config tip="Music">1</Config>
+		<Config tip="Smooth">1</Config>
+    </UserSetting>
+	
+</root>
